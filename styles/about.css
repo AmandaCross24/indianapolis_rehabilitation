@@ -1,0 +1,126 @@
+body {
+	background-color:#b3cce6;
+}
+
+.content {
+	padding: 100px;
+	background-color: #e6eeff;
+	width: 800px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 20px;
+	float: left;
+	margin: 100px;
+	text-align: left;
+	display: inline;
+}
+
+.menu {
+	text-align: center;
+	clear: both;
+	font-size: 20px;
+	font-family: Tahoma, Geneva, sans-serif;
+	margin-top: -100px;
+	color: #404040;
+	width: 1100px;
+	padding: 90px;
+	margin-left: -20px;
+	margin-right: -20px;
+	background-color: #f2f2f2;
+
+
+}
+.menu1 {
+	clear: left;
+	float: left;
+	width: 130px;
+	height: 50px;
+	display: inline-block;
+	background-color: #79a6d2;
+	border-radius: 30px;
+	margin-left: 50px;
+	margin-bottom: 30px;
+	display: flex;
+  	flex-direction: column;
+ 	justify-content: center;
+  	padding: 5px;
+}
+
+.menu2 {
+	width: 130px;
+	height: 50px;
+	float: left;
+	display: inline-block;
+	background-color: #79a6d2;
+	border-radius: 30px;
+	margin-left: 75px;
+	margin-bottom: 30px;
+	display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 5px;
+}
+
+.menu3 {
+	width: 130px;
+	height: 50px;
+	float: left;
+	display: inline-block;
+	background-color: #79a6d2;
+	border-radius: 30px;
+	margin-left: 75px;
+	margin-bottom: 30px;
+	display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 5px;
+}
+
+.menu4 {
+	width: 130px;
+	height: 50px;
+	float: left;
+	display: inline-block;
+	background-color:#79a6d2;
+	border-radius: 30px;
+	margin-left: 75px;
+	margin-bottom: 30px;
+	display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 5px;
+}
+
+.menu5 {
+	width: 130px;
+	height: 50px;
+	display: inline-block;
+	float: left;
+	background-color:#79a6d2;
+	border-radius: 30px;
+	margin-left: 75px;
+	margin-bottom: 30px;
+	display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 5px;
+}
+
+
+.heading2 {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 30px;
+	color:  #79a6d2;
+	width: 1212px;
+	height: 40px;
+	padding: 50px;
+	background-color: grey;
+	margin-left: -50px;
+	margin-top: -10px;
+	text-align: center;
+
+}
+
+a {
+	text-decoration: none;
+	color: #404040;
+}
